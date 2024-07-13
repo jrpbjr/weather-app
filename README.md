@@ -71,3 +71,13 @@ C:\Users\jrpbj\Documentos\projetosAngular>ng new weather-app
 > SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]
   Sass   [ https://sass-lang.com/documentation/syntax#the-indented-syntax ]
   Less   [ http://lesscss.org                                             ]
+
+# Comandos para rodar o projeto
+
+opção 1 : npm start
+opção 2 : ng server ou s
+opção 3 : ng s --o open
+
+? Would you like to share pseudonymous usage data about this project with the Angular Team
+at Google under Google's Privacy Policy at https://policies.google.com/privacy. For more
+details and how to change this setting, see https://angular.io/analytics. (y/N) y
