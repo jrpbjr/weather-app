@@ -100,6 +100,8 @@ ng generate component wheater-home (apenas uma exemplo).
 criar pasta em app -> modules -> wheater -> page
 usar as extencao do vscode para criar o componente na pasta page.
 
+# Criar conta https://home.openweathermap.org/
+
 
 
 
