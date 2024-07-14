@@ -93,4 +93,13 @@ npm install --save @fortawesome/free-brands-svg-icons
 
 npm install @fortawesome/angular-fontawesome@0.12.x
 
+# Criando componente e rota
+
+ng generate component wheater-home (apenas uma exemplo).
+
+criar pasta em app -> modules -> wheater -> page
+usar as extencao do vscode para criar o componente na pasta page.
+
+
+
 
