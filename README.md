@@ -81,3 +81,16 @@ opção 3 : ng s --o open
 ? Would you like to share pseudonymous usage data about this project with the Angular Team
 at Google under Google's Privacy Policy at https://policies.google.com/privacy. For more
 details and how to change this setting, see https://angular.io/analytics. (y/N) y
+
+# Instalando biblioteca de ícones the Free Packages
+npm install --save @fortawesome/fontawesome-svg-core
+
+# Select the styles you need and install them with the following commands.
+
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/free-regular-svg-icons
+npm install --save @fortawesome/free-brands-svg-icons
+
+npm install @fortawesome/angular-fontawesome@0.12.x
+
+
