@@ -102,6 +102,9 @@ usar as extencao do vscode para criar o componente na pasta page.
 
 # Criar conta https://home.openweathermap.org/
 
+# Criando servico
 
+ng g service nome do servico
 
-
+criar pasta app -> modules -> wheater -> services
+usar as extencao do vscode para criar o service na pasta services.
