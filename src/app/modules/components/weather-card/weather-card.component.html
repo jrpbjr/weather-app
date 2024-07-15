@@ -1,12 +1,14 @@
 <div class="container" *ngIf="weatherDatasInput">
   <div class="upper-data">
     <img
-      src="../../../../../assets/sun.jpg"
-      *ngIf="weatherDatasInput.main.temp > 15"
+    src="../../../../../assets/sun.jpg"
+    alt="Imagem representando clima ensolarado"
+    *ngIf="weatherDatasInput.main.temp > 15"
     />
     <img
-      src="../../../../../assets/cold1.jpg"
-      *ngIf="weatherDatasInput.main.temp <= 15"
+    src="../../../../../assets/cold1.jpg"
+    alt="Imagem representando clima frio"
+    *ngIf="weatherDatasInput.main.temp <= 15"
     />
 
     <div class="weather-data">
