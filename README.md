@@ -108,3 +108,7 @@ ng g service nome do servico
 
 criar pasta app -> modules -> wheater -> services
 usar as extencao do vscode para criar o service na pasta services.
+
+# Criando componente
+
+ng generate component wether-card (apenas uma exemplo).
